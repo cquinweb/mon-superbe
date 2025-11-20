@@ -1,0 +1,26 @@
+.table {
+    width:100%;
+    border-collapse: collapse;
+    background:#fff;
+    border-radius:12px;
+    overflow:hidden;
+}
+.table th, .table td {
+    padding:10px 12px;
+    border-bottom:1px solid #eee;
+    text-align:left;
+}
+.table th {
+    background:#fafafa;
+    font-weight:600;
+}
+.actions a, .actions button {
+    margin-right:8px;
+}
+.actions button {
+    border:none;
+    background:#ffecec;
+    padding:6px 10px;
+    border-radius:8px;
+    cursor:pointer;
+}

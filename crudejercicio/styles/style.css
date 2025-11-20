@@ -1,0 +1,8 @@
+
+* { box-sizing: border-box; }
+body { font-family: system-ui, Arial, sans-serif; margin: 24px; background:#f8f9fb; color:#222; }
+h1,h2 { margin: 0 0 16px; }
+.btn { display:inline-block; padding:8px 14px; border:1px solid #222; background:#fff; text-decoration:none; border-radius:8px; margin:8px 0; }
+.btn.primary { background:#222; color:#fff; }
+.flash { background:#e8fff1; border:1px solid #9ae6b4; padding:10px 12px; border-radius:8px; margin-bottom:12px;}
+.err { color:#c0392b; }
