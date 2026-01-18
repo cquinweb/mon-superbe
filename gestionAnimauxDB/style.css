@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    background: #ffffff;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #ffffff;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    vertical-align: top;
+
+}
+th {
+    background-color: #eeeeee;
+    text-align: left;
+}
+.imag img {
+    width: 20%;
+    margin: 3px;
+    border-radius: 6px;
+}
