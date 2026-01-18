@@ -41,12 +41,6 @@ echo "La mauvaise note est : " . $mauvaise . "<br>";
 
 
 
-?>
-
-
-
-
-
 
 
 <?php
